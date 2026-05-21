@@ -6,7 +6,8 @@
 
 ## 📌 Project Overview
 
-This project analyzes real-world credit card spending behavior across major Indian cities from 2013–2015. The goal was to uncover category-level spending patterns, identify high-value cities and card segments, and track trends over time — simulating the kind of analysis done at firms like Capital One, Deloitte, or JPMorgan.
+This project analyzes real-world credit card spending behavior across major Indian cities from 2013–2015. The goal was to uncover category-level spending patterns, identify high-value cities and card segments, and track trends over time — the kind of analysis common in financial services and consulting roles.
+
 
 **Dataset:** [Analyzing Credit Card Spending Habits in India](https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india) — Kaggle  
 **Rows:** 26,052 transactions  
