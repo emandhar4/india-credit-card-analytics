@@ -1,6 +1,6 @@
 # 🇮🇳 India Credit Card Spending Analytics
 
-> End-to-end data analytics project analyzing 26,052 credit card transactions across India — structured in Excel, queried in SQL, and visualized in Power BI.
+> End-to-end data analytics project analyzing 26,052 credit card transactions across India — structured in Excel, queried in SQL, and visualized in Tableau.
 
 ---
 
@@ -22,7 +22,7 @@ This project analyzes real-world credit card spending behavior across major Indi
 | Data cleaning | Excel (Power Query) | Standardization, null handling, derived columns |
 | Exploration | Excel Pivot Tables | Initial category and city breakdowns |
 | Analysis | SQL (MySQL) | Aggregations, YoY trends, window functions |
-| Visualization | Power BI | Interactive dashboard |
+| Visualization | Tableau | Interactive dashboard |
 
 ---
 
@@ -81,6 +81,10 @@ The `/sql` folder contains 10 production-ready queries including:
 - Advanced SQL — CTEs, window functions, CASE statements, subqueries
 - Excel financial modeling conventions (formula-driven, no hardcoded values)
 - Business storytelling — translating raw data into actionable findings
+
+---
+
+**Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/IndiaCreditCardSpendingAnalytics/Dashboard1)
 
 ---
 
